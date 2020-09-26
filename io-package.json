@@ -3,8 +3,8 @@
         "name": "spotify-premium",
         "version": "1.1.0",
         "news": {
-        	"1.1.0": {
-			  "en": "",
+        	"1.1.1": {
+			  "en": "changed behavior of shuffle and repeat from on/off to 1/0",
 			  "de": "",
 			  "ru": "",
 			  "pt": "",
